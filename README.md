@@ -5,13 +5,13 @@ Nasa Earth Night Wallpaper for Virtual Desktops
 wget imagemagick python-ewmh python-gobject
 
 # Generate wallpapers
-`
+```sh
 python ./generate_wallpapers.py [display resolution][virtual desktop grid size]
 #Example
 python ./generate_wallpapers.py 1920x1080 4x4
-`
+```
 
 # Display wallpapers
-`
+```sh
 python ./main.py
-`
+```
