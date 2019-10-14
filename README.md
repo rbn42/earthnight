@@ -2,7 +2,7 @@
 Nasa Earth Night Wallpaper for Virtual Desktops
 
 # Dependencies
-wget imagemagick python-ewmh python-gobject
+`wget` `imagemagick` `python-ewmh` `python-gobject`
 
 # Generate wallpapers
 ```sh
